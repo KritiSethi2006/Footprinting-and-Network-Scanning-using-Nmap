@@ -1,2 +1,2 @@
-# Footprinting---Network-Scanning-using-Nmap
+# Footprinting-Network-Scanning-using-Nmap
 Ethical Hacking Project
