@@ -22,7 +22,7 @@ The project explores the initial phases of ethical hacking — footprinting and 
   - Embedded screenshots  
   - Conclusion and references
 
-🧠 Tools Used
+💻 Tools Used
 
 - WHOIS Lookup  
 - Google Dorking  
