@@ -2,7 +2,7 @@
 
 The project explores the initial phases of ethical hacking — footprinting and network scanning, using tools such as WHOIS, Google Dorking, and Nmap. It demonstrates both passive and active reconnaissance techniques in a controlled lab environment.
 
-⚙️ Key Objectives:-
+**⚙️ Key Objectives:-**
 
 🔷 Understanding how attackers gather information about target systems
 
@@ -22,11 +22,13 @@ The project explores the initial phases of ethical hacking — footprinting and 
   - Embedded screenshots  
   - Conclusion and references
 
-💻 Tools Used
+**💻 Tools Used**
 
 - WHOIS Lookup  
 - Google Dorking  
 - Nmap (`-sn`, `-sV`, `-O`, `-A`)
 
 
-⚠️ All scans performed ethically in a virtual lab setup
+**⚠️ All scans performed ethically in a virtual lab setup**
+
+**🌐LinkedIn Post Link:** 
