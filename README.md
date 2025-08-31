@@ -31,4 +31,4 @@ The project explores the initial phases of ethical hacking — footprinting and 
 
 **⚠️ All scans performed ethically in a virtual lab setup**
 
-**🌐LinkedIn Post Link:** 
+**🌐LinkedIn Post Link:** https://www.linkedin.com/posts/kritisethi2006_ethicalhacking-cybersecurity-footprinting-activity-7359978639746064386-Uicv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
